@@ -25,3 +25,4 @@ contract Valencia is ERC20, Ownable {
 "3 day"
 "4 day"
 "5 day"
+"6 day"
